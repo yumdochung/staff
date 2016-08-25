@@ -18,7 +18,7 @@
 </head>
 <body>
 	<jsp:include page="top.jsp"></jsp:include>
-	<div style="width: 850px; margin: 0 auto;">
+	<div style="width: 950px; margin: 0 auto;">
 	
 	<!-- 여기서부터는 슬라이드 css -->
 	<div class="container">
@@ -58,7 +58,6 @@
 				
 			</div><!-- sp-slideshow -->
 			
-			<p class="note">Placeholder text from <a href="http://hipsteripsum.me">http://hipsteripsum.me</a></p>
 		</div>
 		
 <!-- 		여기까지 슬라이드 css끝 -->
