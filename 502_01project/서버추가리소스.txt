@@ -1,0 +1,7 @@
+<Context docBase="ProjectFinal" path="/ProjectFinal"
+					reloadable="true" source="org.eclipse.jst.jee.server:ProjectFinal" >
+					<Resource auth="Container" driverClassName="oracle.jdbc.OracleDriver"
+						maxIdle="10" maxTotal="20" maxWaitMillis="-1" name="jdbc/orcl"
+						password="1234" type="javax.sql.DataSource" url="jdbc:oracle:thin:@112.216.253.125:1521:orcl"
+						username="cloud13" />
+				</Context>
